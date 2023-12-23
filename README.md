@@ -1,1 +1,1 @@
-# Lyceum_everywhere
+## HSE Lyceum IT Projects - Lyceum_everywhere
